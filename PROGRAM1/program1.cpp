@@ -1,3 +1,5 @@
+//creation of 2-D array Matrix through dynamic memory allocation
+
 #include<iostream>
 using namespace std;
 class MATRIX
