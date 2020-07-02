@@ -1,3 +1,5 @@
+Program: to read the name and roll numbers of students from keyboard and write them into a file and then display it.
+
 #include<iostream>
 using namespace std;
 #include<fstream>
