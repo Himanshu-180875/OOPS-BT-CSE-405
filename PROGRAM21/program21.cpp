@@ -1,3 +1,5 @@
+Program: to copy one file onto the end of another, adding line numbers
+
 #include<iostream>
 #include<fstream>
 using namespace std;
